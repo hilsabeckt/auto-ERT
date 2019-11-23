@@ -1,0 +1,15 @@
+0:00   {time:0:00}   |cffF58CBA{spell:31884} Wings (Moperx)|r   |cffF58CBA{spell:31884} Wings (Zenzr)|r   
+0:20   {time:0:20}   |cffFFFFFF{spell:47536} Rapt|r   |cffFFFFFF{spell:34433} Fiend|r   
+0:45   {time:0:45}   |cffFFFFFF{spell:265202} Salv|r   
+2:00   {time:2:00}   |cffF58CBA{spell:31884} Wings (Moperx)|r   |cffF58CBA{spell:31884} Wings (Zenzr)|r   
+2:05   {time:2:05}   |cffFFFFFF{spell:62618} Barrier|r   |cffFFFFFF{spell:64843} Hymn|r   
+2:10   {time:2:10}   |cffFFFFFF{spell:47536} Rapt|r   
+2:20   {time:2:20}   |cffF58CBA{spell:31821} AM (Moperx)|r   |cffA330C9{spell:196718} Darkness|r   
+2:35   {time:2:35}   |cffF58CBA{spell:31821} AM (Zenzr)|r   |cffC79C6E{spell:97462} Rally|r   
+3:45   {time:3:45}   |cffF58CBA{spell:31884} Wings (Moperx)|r   |cffF58CBA{spell:31884} Wings (Zenzr)|r   
+4:35   {time:4:35}   |cffFFFFFF{spell:47536} Rapt|r   |cffFFFFFF{spell:34433} Fiend|r   
+5:30   {time:5:30}   |cffF58CBA{spell:31884} Wings (Moperx)|r   |cffF58CBA{spell:31884} Wings (Zenzr)|r   |cffFFFFFF{spell:64843} Hymn|r   |cffFFFFFF{spell:62618} Barrier|r   |cffA330C9{spell:196718} Darkness|r   
+5:40   {time:5:40}   |cffF58CBA{spell:31821} AM (Moperx)|r   |cffC79C6E{spell:97462} Rally|r   
+5:50   {time:5:50}   |cffF58CBA{spell:31821} AM (Zenzr)|r   
+6:30   {time:6:30}   |cffFFFFFF{spell:47536} Rapt|r   
+7:05   {time:7:05}   |cffFFFFFF{spell:265202} Salv|r   
